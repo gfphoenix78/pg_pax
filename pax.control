@@ -1,0 +1,6 @@
+# adminpack extension
+comment = 'pax access method'
+default_version = '1.0'
+module_pathname = '$libdir/pax'
+relocatable = false
+schema = pg_catalog
